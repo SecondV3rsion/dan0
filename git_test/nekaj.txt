@@ -3,5 +3,8 @@ Zacetno besedeilo
 
 nova funkcija.
 
-
 boljsa inplementacija
+
+
+veliko nove kode
+
