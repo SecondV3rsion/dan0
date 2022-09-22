@@ -2,3 +2,5 @@ Zacetno besedeilo
 
 
 nova funkcija.
+
+še ena nova funkcija
