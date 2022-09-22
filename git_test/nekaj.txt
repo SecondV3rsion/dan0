@@ -2,3 +2,6 @@ Zacetno besedeilo
 
 
 nova funkcija.
+
+
+boljsa inplementacija
