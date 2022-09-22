@@ -3,7 +3,8 @@ Zacetno besedeilo
 
 nova funkcija.
 
-še ena nova funkcija
+boljsa inplementacija
 
 
 veliko nove kode
+
